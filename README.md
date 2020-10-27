@@ -26,3 +26,7 @@ Taas tuli jotenkin epänormaali eikä edes lihavoinut ja kursivoinut. Hmm...
 Ei ihan menny taaskaan nappiin. Koko näppäimistö on täynnä nappeja...
 
 Jotain todella inspiroivaa tekstiä, jossa **tämä** on lihavoitu ja *tämä* kursivoitu!
+
+```diff
+- Pieni viaton muutos
+```
