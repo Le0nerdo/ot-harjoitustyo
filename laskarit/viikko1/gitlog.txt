@@ -1,0 +1,113 @@
+commit 5e91111e7a3a93eb747f28eff3184b6d9c603943
+Author: Becker Leo <leijonamieli@hotmail.fi>
+Date:   Tue Oct 27 10:28:55 2020 +0200
+
+    hehe XD
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 5fad6db5c2fa544ef7ff158924912140a04b8d72
+Author: Becker Leo <leijonamieli@hotmail.fi>
+Date:   Tue Oct 27 10:27:55 2020 +0200
+
+    mou
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit bd2bec597dce6bb51928859ccc128a757c2c0eb7
+Author: Becker Leo <leijonamieli@hotmail.fi>
+Date:   Tue Oct 27 10:15:39 2020 +0200
+
+    jaahas
+
+ eka.txt    | 4 ++--
+ kolmas.txt | 4 +++-
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+
+commit d99c6b3b479d4ce9bf05a2d7409ed17e767e02c9
+Author: Becker Leo <leijonamieli@hotmail.fi>
+Date:   Tue Oct 27 10:14:10 2020 +0200
+
+    aaa
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 06b8768c18b13657b7d2bf18b83f01a298e9f866
+Author: Becker Leo <leijonamieli@hotmail.fi>
+Date:   Tue Oct 27 10:13:01 2020 +0200
+
+    Hupsista
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 1e11af92ad3955ff674404791d389b3adc7d1758
+Author: Becker Leo <leijonamieli@hotmail.fi>
+Date:   Tue Oct 27 10:11:59 2020 +0200
+
+    Mikäs on muutos?
+
+ tiedosto.txt | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+commit 8bab0c332a8cd01f804afc8bb9b6a58cd6f01633
+Author: Becker Leo <leijonamieli@hotmail.fi>
+Date:   Tue Oct 27 10:11:00 2020 +0200
+
+    Haahaa
+
+ tiedosto.txt | 662 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 661 insertions(+), 1 deletion(-)
+
+commit c029eee3b5c087b4f6e0758b25d06acf3247f998
+Author: Becker Leo <leijonamieli@hotmail.fi>
+Date:   Tue Oct 27 10:08:48 2020 +0200
+
+    uuusi tiedosto jee
+
+ stuff/jokintiedosto.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 88d6e2e5e4b6d0ad73bef195f2c6be41b1bdac0b
+Author: Becker Leo <leijonamieli@hotmail.fi>
+Date:   Tue Oct 27 10:07:21 2020 +0200
+
+    Hehe XD
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 61db2475614cab23b0f9b329fef4752c0e9fc99b
+Author: Becker Leo <leijonamieli@hotmail.fi>
+Date:   Tue Oct 27 10:06:01 2020 +0200
+
+    ok
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 11c84b7d5cd6b5e634918f93ba716cf7c14a41eb
+Author: Becker Leo <leijonamieli@hotmail.fi>
+Date:   Tue Oct 27 10:04:33 2020 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit f68d022a517c4ede3bb3970f495754b1ac0ca004
+Author: Becker Leo <leijonamieli@hotmail.fi>
+Date:   Tue Oct 27 09:38:55 2020 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
