@@ -1,4 +1,13 @@
-# Paras otsikko
+# Ohjelmistotekniikka, harjoitystyö
+## Tehtävät
+### Viikko 1
+[gitlog.txt](/laskarit/viikko1/gitlog.txt)
+
+[komentorivi.txt](/laskarit/viikko1/komentorivi.txt)
+
+
+
+# Vanha README
 > Jotain todella inspiroivaa tekstiä, jossa **tämä** on lihavoitu ja *tämä* kursivoitu!
 
 Ainiin toi ei ehkä ole tavallista tekstiä... Koitetaan uudestaan!
