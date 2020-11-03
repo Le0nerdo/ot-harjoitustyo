@@ -32,8 +32,7 @@ public class MaksukorttiTest {
     @Test
     public void ottaminenPienentaaSaldoaOikein() {
         kortti.otaRahaa(5);
-        // Tarkistetaan että bugi on vieläkin olemassa
-        assertEquals("saldo: 0.5", kortti.toString());
+        assertEquals("saldo: 0.05", kortti.toString());
     }
     
     @Test
@@ -50,5 +49,11 @@ public class MaksukorttiTest {
     @Test
     public void otaRahaaPalauttaaFalse() {
         assertTrue(!kortti.otaRahaa(15));
+    }
+    
+    @Test
+    public void nollaStringOikein() {
+        kortti.otaRahaa(10);
+        assertEquals("saldo: 0.00", kortti.toString());
     }
 }
