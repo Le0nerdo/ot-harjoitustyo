@@ -1,10 +1,13 @@
 # Ohjelmistotekniikka, harjoitystyö
+[Ohjelma](https://github.com/Le0nerdo/Network-Clipboard)
 ## Tehtävät
 ### Viikko 1
 [gitlog.txt](/laskarit/viikko1/gitlog.txt)
 
 [komentorivi.txt](/laskarit/viikko1/komentorivi.txt)
 
+### Viikko 2
+[vaatimusäärittely](/dokumentaatio/vaatimusmaarittely.md)
 
 
 # Vanha README
