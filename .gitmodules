@@ -1,0 +1,3 @@
+[submodule "Network-Clipboard"]
+	path = Network-Clipboard
+	url = git@github.com:Le0nerdo/Network-Clipboard.git
