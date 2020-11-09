@@ -1,0 +1,18 @@
+title Tehtävä 3
+
+tuntematon->Machine: new Machine()
+Machine->FuelTank: new FuelTank()
+FuelTank-->Machine: Tank
+Machine->FuelTank: fill(40)
+Machine->Engine: new Engine(tank)
+Engine-->Machine: Engine
+Machine-->tuntematon: Machine
+
+tuntematon->Machine: drive()
+Machine->Engine: start()
+Engine->FuelTank: consume(5)
+Machine->Engine: isRunning()
+Engine->FuelTank: contentsLeft()
+FuelTank-->Engine: 35
+Engine-->Machine: true
+Machine->Engine: useEnergy()

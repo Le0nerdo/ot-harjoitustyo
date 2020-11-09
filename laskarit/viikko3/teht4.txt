@@ -1,0 +1,30 @@
+title Tehtävä 4
+
+Main->laitehallinto : new HKLLaitehallinto()
+laitehallinto-->Main: laitehallinto
+Main->rautatietori : new Lataajalaite()
+rautatietori-->Main: rautatietori
+Main->ratikka6: new Lukijalaite()
+ratikka6-->Main: ratikka6
+Main->bussi244: new Lukijalaite()
+bussi244-->Main: bussi244
+Main->laitehallinto: lisaaLataaja(rautatietori)
+Main->laitehallinto: lisaaLukija(ratikka6)
+Main->laitehallinto: lisaaLukija(bussi244)
+Main->lippuLuukku: new Kioski()
+lippuLuukku-->Main: lippuLuukku
+Main->lippuLuukku: ostaMatkakortti("Arto")
+lippuLuukku->uusiKortti: new Matkakortti("Arto")
+uusiKortti-->lippuLuukku: uusiKortti
+lippuLuukku-->Main: artonKortti (aiemmin nimetty uusiKortti)
+Main->rautatietori: lataaArvoa(artonKortti,3)
+rautatietori->artonKortti: kasvataArvoa(3)
+Main->ratikka6: ostaLippu(artonKortti, 0)
+ratikka6->artonKortti: getArvo()
+artonKortti-->ratikka6: 3
+ratikka6->artonKortti: vahennaArvoa(1.5)
+ratikka6-->Main: true
+Main->bussi244: ostaLippu(artonKortti, 2)
+bussi244->artonKortti: getArvo()
+artonKortti-->bussi244: 1.5
+bussi244-->Main: false

@@ -1,0 +1,18 @@
+[Monopolipeli]1-1[Pelilauta]1-*[Ruutu]1-1[Ruutu]1-*[Pelinappula]1-1[Pelaaja]-katkoviiva>[Noppa]
+
+[Ruutu]<valkoinen-[aloitusruutu]1-1[Toiminto]
+[Ruutu]<valkoinen-[vankila]1-1[Toiminto]
+[Ruutu]<valkoinen-[sattuma ja yhteismaa]1-1[Toiminto]
+[Ruutu]<valkoinen-[asemat ja laitokset]1-1[Toiminto]
+[Ruutu]<valkoinen-[normaali katu]1-1[Toiminto]
+
+[sattuma ja yhteismaa]1-*[Kortti]1-1[Toiminto]
+
+[aloitusruutu]-[Monopolipeli]1-1[vankila]
+
+[Hotelli]1-1[normaali katu]1-*[Talo]
+[normaali katu|String nimi]
+
+[Pelaaja]1-*[normaali katu]
+
+[Pelaaja]1-*[Raha]
