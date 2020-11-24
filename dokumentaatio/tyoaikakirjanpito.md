@@ -8,4 +8,4 @@
 |16.11.	|3	|Testailin MongoDB atlas tietokannan käyttöä
 |17.11.	|4	|Refactoroin jotta voin tehdä testit ja yritin saada jacocon toimimaan kurssin haluamalla tavalla
 |23.11	|5	|JavaFX kanssa taistelua
-|23.11	|6	|Historian lisääminen, refectorointi tyylillisesti sekä koodillisesti, testien tekeminen
+|24.11	|6	|Historian lisääminen, refectorointi tyylillisesti sekä koodillisesti, testien tekeminen
