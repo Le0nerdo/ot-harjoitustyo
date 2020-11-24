@@ -1,0 +1,1 @@
+![Kuva arkkitehtuurista](./arkkitehtuuri1.jpg)
