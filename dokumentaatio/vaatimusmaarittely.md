@@ -5,8 +5,8 @@ Network Clipboard is a program that makes it possible to cut, copy and paste tex
 ## Features
 * When using cut or copy on text the computer sends the data to a database, where other connected devices can read it from and with that update their clipboards.
 * Selecting text from the history to be on the clipboard.
-* Pause the system so that the clipboard on a certain devise will not be updated from the database, but it still writes to it.
-* Stop the program so that no sending to or receiving from the database occurs, but you can still access the current history.
+* Pause the system so that the clipboard on a certain devise will not be updated from the database, but it still writes to it.  **tehty**
+* Stop the program so that no sending to or receiving from the database occurs, but you can still access the current history.  **tehty**
 * Graphical user interface.
 
 ## Getting Started
