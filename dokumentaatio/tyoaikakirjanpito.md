@@ -12,3 +12,4 @@
 |25.11.	|2	|Projektin siivousto
 |30.11.	|9	|Refaktorointia, testien kirjoittamista, JavaDoc kirjoittamista, yritystä löytää tapa korjata nettiyhteysongelmiin liittyviä virhetilanteita.
 |1.12.	|8	|Refaktorointia, testien kirjoittamista, JavaDoc kirjoittamista, konfiguraatioiden kanssa taistelemista ja bugien metsästystä...
+|1.12.	|1	|Lisätty checkstyle workflowiin ja JavaDoc private metodeihi.
