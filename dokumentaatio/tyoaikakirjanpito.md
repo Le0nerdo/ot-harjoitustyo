@@ -13,3 +13,6 @@
 |30.11.	|9	|Refaktorointia, testien kirjoittamista, JavaDoc kirjoittamista, yritystä löytää tapa korjata nettiyhteysongelmiin liittyviä virhetilanteita.
 |1.12.	|8	|Refaktorointia, testien kirjoittamista, JavaDoc kirjoittamista, konfiguraatioiden kanssa taistelemista ja bugien metsästystä...
 |1.12.	|1	|Lisätty checkstyle workflowiin ja JavaDoc private metodeihi.
+|7.12.	|5	|Toteamus ettei mongoDB:lle löydy ohjeita tai se ei vain ole toimiva ratkaisu mihinkään jossa voisi verkko katketa.
+|8.12.	|3	|Clear featuren lisäys ja dokumentaatiojuttuja
+|yht.	|52
