@@ -4,9 +4,12 @@
 
 [Ohjelma](https://github.com/Le0nerdo/Network-Clipboard)
 
+# Releases
 [Release 1](https://github.com/Le0nerdo/Network-Clipboard/releases/tag/v0.1.0)
 
 [Release 2](https://github.com/Le0nerdo/Network-Clipboard/releases/tag/v0.1.1)
+
+[Loppupalautus](https://github.com/Le0nerdo/Network-Clipboard/releases/tag/v0.1.2)
 
 ## Dokumentaatio
 [vaatimusäärittely](/dokumentaatio/vaatimusmaarittely.md)

@@ -10,3 +10,4 @@
 * **History** click a string from the history to apply it to clipboard
 * **Pause** Click the pause button to pause the system so that the clipboard on a certain devise will not be updated from the database, but it still writes to it. The Unpause button stops this effect
 * **Stop** Click the stop button to stop the program so that no sending to or receiving from the database occurs, but you can still access the current history. The Unstop button stops this effect.
+* **Clear** Click to clear the locally saved mongoDB Atlas URI and the current history.

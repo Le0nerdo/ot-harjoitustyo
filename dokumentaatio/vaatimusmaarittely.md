@@ -7,7 +7,7 @@ Network Clipboard is a program that makes it possible to cut, copy and paste tex
 * Selecting text from the history to be on the clipboard.
 * Pause the system so that the clipboard on a certain devise will not be updated from the database, but it still writes to it.
 * Stop the program so that no sending to or receiving from the database occurs, but you can still access the current history.
-* Clear the URI and local history from the device. **tehty**
+* Clear the URI and local history from the device.
 * Graphical user interface.
 
 ## Getting Started
@@ -27,5 +27,5 @@ Network Clipboard is a program that makes it possible to cut, copy and paste tex
 * Only plain text works. When cutting or copying files they can not be pasted on other devices.
 
 ## Further Development Ideas
-* Extending to work with some file types (not only plain text).
 * Making the program with something more commonly found on devices than java.
+* Extending to work with some file types (not only plain text).
