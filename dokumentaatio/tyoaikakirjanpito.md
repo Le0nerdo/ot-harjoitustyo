@@ -15,4 +15,6 @@
 |1.12.	|1	|Lisätty checkstyle workflowiin ja JavaDoc private metodeihi.
 |7.12.	|5	|Toteamus ettei mongoDB:lle löydy ohjeita tai se ei vain ole toimiva ratkaisu mihinkään jossa voisi verkko katketa.
 |8.12.	|3	|Clear featuren lisäys ja dokumentaatiojuttuja
-|yht.	|52
+|15.12. |2  |Tyylikorjauksia
+|15.12. |3  |Dokumentaatiotiedostojen luomista ja päivittämistä
+|yht.	|57
